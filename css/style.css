@@ -1,11 +1,10 @@
 *{ 
-  font-family: 'Arial', sans-serif;
-  box-sizing: border-box;
+	font-family: 'arial', sans-serif;
+    box-sizing: border-box;
 }
 
 .content {
-  margin-top: 30px;
-  max-width: 100%;
+  overflow: hidden;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -14,7 +13,6 @@
 
 .weather {
  margin-top: 10px;
- text-align: center;	
 }
 
 img {
